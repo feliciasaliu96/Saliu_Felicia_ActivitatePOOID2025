@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 #include<cstring>
 
@@ -132,4 +132,4 @@ int main()
 	else
 		cout << "aria t3 mai mare" << endl;
 	return 0;
-}
+}*/

@@ -1,1 +1,5 @@
-﻿  ConsoleApplication1.vcxproj -> C:\Users\40762\source\repos\Saliu_Felicia_ActivitatePOOID2025\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿  Autobuz.cpp
+C:\Users\40762\source\repos\Saliu_Felicia_ActivitatePOOID2025\ConsoleApplication1\Autobuz.cpp(125,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Teren.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\40762\source\repos\Saliu_Felicia_ActivitatePOOID2025\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
